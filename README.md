@@ -1,5 +1,5 @@
 # news
-OpenFarm에 관한 블로그, 소식, 뉴스들입니다.
+OpenFarm에 관한 블로그, 소식, 뉴스들입니다.  
 Blogs, news, and updates about OpenFarm.
 
 ## 2025
